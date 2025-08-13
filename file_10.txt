@@ -1,1 +1,4 @@
-Dummy content 10
+john.doe@irongatebank.com:$2a$10$IsiwGzibpq8.FvqZm9qq/efCq8UB.lcTimVJkSfNtrq62wvwaC56m
+alice.smith@irongatebank.com:$2a$10$5LYlFBicge.oSpko3Q92.uOv6VS4lC6kdzBGkawhEvBZQYMF7230m
+robert.king@irongatebank.com:$2a$10$yNmiIYSaGcqzQf.VKM9.UuN3SNMSoaxpuq4p3v08kbLxukIalOaNK
+
