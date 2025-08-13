@@ -1,0 +1,8 @@
+{
+  "app_name": "M3gaPay API",
+  "version": "2.3.1",
+  "debug": false,
+  "max_connections": 150,
+  "timeout": 30
+}
+
